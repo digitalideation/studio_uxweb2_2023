@@ -6,7 +6,7 @@
 
 This repository includes resources & course notes for students attending Studio UX 2 and Web&Mobile Design & Engineering 2.<br/>
 Instructors: Angie Born, Guillaume Massol, Maria Husmann<br/>
-With material from Hanna Züllig
+With material from Hanna Züllig<br/>
 Term: Spring 2022, HSLU<br/>
 
 
