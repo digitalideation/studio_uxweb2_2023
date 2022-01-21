@@ -1,14 +1,14 @@
-# studio_webmobile2_2021
+# studio_webmobile2_2022
 
 
 ![di logo](https://github.com/digitalideation/comppx_h2001/blob/master/docs/assets/images/di-logo-small.jpg?raw=true "di logo")
 
 
-# Studio Web&Mobile Design & Engineering 2 - Spring 2021
+# Studio UX 2 and Web&Mobile Design & Engineering 2 - Spring 2022
 
-This repository includes resources & course notes for students attending Web&Mobile Design & Engineering 2.<br/>
-Instructors: Maria Husmann and Hanna Züllig<br/>
-Term: Spring 2021, HSLU<br/>
+This repository includes resources & course notes for students attending Studio UX 2 and Web&Mobile Design & Engineering 2.<br/>
+Instructors: Angie Born, Guillaume Massol, Maria Husmann and Hanna Züllig<br/>
+Term: Spring 2022, HSLU<br/>
 
 
 
