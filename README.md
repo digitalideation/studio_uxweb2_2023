@@ -1,5 +1,3 @@
-# studio_webmobile2_2022
-
 
 ![di logo](https://github.com/digitalideation/comppx_h2001/blob/master/docs/assets/images/di-logo-small.jpg?raw=true "di logo")
 
