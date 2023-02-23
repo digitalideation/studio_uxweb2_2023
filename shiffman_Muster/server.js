@@ -21,7 +21,7 @@ function newConnection(socket){
     socket.on('mouse', mouseMsg);
 
     function mouseMsg(data){
-        socket.broadcast.emit('mouse', data); //msg geht nicht an den client der gesendet hat
+        socket.broadcast.emit('mouse', data); //msg geht an alle clients ausser den client der gesendet hat
         //io.sockets.emit('mouse', data); //msg geht an alle clients
         //console.log(data);
     }
